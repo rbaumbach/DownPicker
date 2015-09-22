@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name             = "DownPicker"
-  s.version          = "0.1.33"
+  s.version          = "5.2.33"
   s.summary          = "Lightweight class library for creating drop down list controls for iOS."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
+#   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description      = <<-DESC
 DownPicker is an extremely light-weight class library for creating DropDownList / ComboBox controls for iOS that will behave like their HTML / Android counterparts.
 You'll only need a standard UITextField and few lines of code.
