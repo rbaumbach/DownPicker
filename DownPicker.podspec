@@ -33,7 +33,7 @@ Installation instructions, examples and documentation are available in the inclu
   s.screenshots     = "https://raw.githubusercontent.com/Darkseal/DownPicker/gh-pages/images/DownPicker/UITextField.DownPicker.png"
   s.license          = 'MIT'
   s.author           = { "Ryan" => "ryan@ryadel.com" }
-  s.source           = { :git => "https://github.com/Darkseal/DownPicker.git", :tag => s.version.to_s }
+  s.source           = { :git => "git@github.com:rbaumbach/DownPicker.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ryadel_com'
 
   s.platform     = :ios, '6.0'
